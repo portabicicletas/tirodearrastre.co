@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /legal/
+Disallow: /*.json$
+
+Sitemap: https://www.tirodearrastre.co/sitemap.xml
